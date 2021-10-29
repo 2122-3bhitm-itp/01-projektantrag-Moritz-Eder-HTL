@@ -16,29 +16,29 @@ ifdef::backend-html5[]
 
 == Projektbezeichnung
 
-====== Diagram Generator
+Diagram Generator
 
 == Projektauftraggeber
 
-====== Moritz Eder
+Moritz Eder
 
 == Projekthintergrund
 
-====== Ich will einen Diagramm Generator machen, der dem User eine einfache Möglichkeit geben soll, Diagramme zu erstellen.
+Ich will einen Diagramm Generator machen, der dem User eine einfache Möglichkeit geben soll, Diagramme zu erstellen.
 
 == Projektziele
 
 === Sinn/Zweck
 
-====== Dieser Generator soll eine einfache und schnelle Lösung zum Erstellen von Diagrammen sein. Es sollte auch für Personen, die sich nicht so gut auskennen, kein Problem darstellen, ein Diagramm zu machen.
+Dieser Generator soll eine einfache und schnelle Lösung zum Erstellen von Diagrammen sein. Es sollte auch für Personen, die sich nicht so gut auskennen, kein Problem darstellen, ein Diagramm zu machen.
 
 === Kunde/Beteiligte
 
-====== Es wird für jeden im Internet zugägnlich sein.
+Es wird für jeden im Internet zugägnlich sein.
 
 === Endergebnis
 
-====== Ein vollständiger Generator mit vielen Eingabemöglichkeiten sollte bis spätestens Ende des Schuljahres fertig sein.
+Ein vollständiger Generator mit vielen Eingabemöglichkeiten sollte bis spätestens Ende des Schuljahres fertig sein.
 
 === Kriterien
 
