@@ -20,7 +20,7 @@ Diagram Generator
 
 == Projektauftraggeber
 
-Moritz Ederr
+Moritz Eder
 
 == Projekthintergrund
 
