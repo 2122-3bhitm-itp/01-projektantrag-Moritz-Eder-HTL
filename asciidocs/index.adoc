@@ -14,8 +14,36 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== Header 1
+== Projektbezeichnung
 
+====== Diagram Generator
 
-=== Header 2
+== Projektauftraggeber
+
+====== Moritz Eder
+
+== Projekthintergrund
+
+====== Ich will einen Diagramm Generator machen, der dem User eine einfache Möglichkeit geben soll, Diagramme zu erstellen.
+
+== Projektziele
+
+=== Sinn/Zweck
+
+====== Dieser Generator soll eine einfache und schnelle Lösung zum Erstellen von Diagrammen sein. Es sollte auch für Personen, die sich nicht so gut auskennen, kein Problem darstellen, ein Diagramm zu machen.
+
+=== Kunde/Beteiligte
+
+====== Es wird für jeden im Internet zugägnlich sein.
+
+=== Endergebnis
+
+====== Ein vollständiger Generator mit vielen Eingabemöglichkeiten sollte bis spätestens Ende des Schuljahres fertig sein.
+
+=== Kriterien
+
+. Funktioniert die Eingabe?
+. Ist es übersichtlich gestaltet?
+. Ist die Ausgabe gut leserlich gestaltet?
+. Ist es benutzerfreundlich?
 
