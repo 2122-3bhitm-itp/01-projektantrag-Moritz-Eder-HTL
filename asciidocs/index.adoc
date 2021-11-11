@@ -16,7 +16,7 @@ ifdef::backend-html5[]
 
 == Projektbezeichnung
 
-Diagram Generator
+Diagrammgenerator
 
 == Projektauftraggeber
 
@@ -24,21 +24,21 @@ Moritz Eder
 
 == Projekthintergrund
 
-Ich will einen Diagramm Generator machen, der dem User eine einfache Möglichkeit geben soll, Diagramme zu erstellen.
+Ich als HTL Schüler muss öfters für Programme Diagramme zeichnen. Deswegen will einen Diagrammgenerator machen.
 
 == Projektziele
 
 === Sinn/Zweck
 
-Dieser Generator soll eine einfache und schnelle Lösung zum Erstellen von Diagrammen sein. Es sollte auch für Personen, die sich nicht so gut auskennen, kein Problem darstellen, ein Diagramm zu machen.
+Projekt zu Forward oder Reverse Engineering
 
 === Kunde/Beteiligte
 
-Es wird für jeden im Internet zugägnlich sein.
+Es wird für jeden im Internet zugänglich sein.
 
 === Endergebnis
 
-Ein vollständiger Generator mit vielen Eingabemöglichkeiten sollte bis spätestens Ende des Schuljahres fertig sein.
+Ein vollständiger Diagrammgenerator, der mit Java funktioniert, sollte bis spätestens Ende des Schuljahres fertig sein.
 
 === Kriterien
 
