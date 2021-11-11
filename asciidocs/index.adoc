@@ -24,13 +24,13 @@ Moritz Eder
 
 == Projekthintergrund
 
-Ich als HTL Schüler muss öfters für Programme Diagramme zeichnen. Deswegen will einen Diagrammgenerator machen.
+Ich als HTL Schüler muss öfters für Programme Diagramme zeichnen. Deswegen will einen Diagrammgenerator machen, weil das sehr praktisch wäre.
 
 == Projektziele
 
 === Sinn/Zweck
 
-Projekt zu Forward oder Reverse Engineering
+Projekt zu Forward oder Reverse Engineering.
 
 === Kunde/Beteiligte
 
@@ -38,7 +38,7 @@ Es wird für jeden im Internet zugänglich sein.
 
 === Endergebnis
 
-Ein vollständiger Diagrammgenerator, der mit Java funktioniert, sollte bis spätestens Ende des Schuljahres fertig sein.
+Ein vollständiger Diagrammgenerator, der mit Java funktioniert, sollte bis spätestens Ende des Schuljahres fertig sein. Man könnte, nachdem man ein paar Java Klassen programmiert hat, auf einen Knopf drücken, wodurch dann automatisch ein Diagramm generiert wird.
 
 === Kriterien
 
